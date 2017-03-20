@@ -12,6 +12,6 @@ composer require selden1992/laravel-env
 
 使用用法
 ```php
-php artisan env:generate=PUSHER_APP_ID 2334324
+php artisan env:generate PUSHER_APP_ID=2334324
 ```
 
