@@ -1,4 +1,18 @@
 {
+  "name": "selden1992/laravel-env",
+  "description": "用于命令后修改env文件，部署系统会用到",
+  "type": "laravel-extension",
+  "keywords": [
+    "laravel",
+    "env"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "selden1992",
+      "email": "2206582181@qq.com"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "Env\\Commands": "/"
