@@ -18,7 +18,7 @@ class EnvCommand extends Command
      *
      * @var string
      */
-    protected $description = 'Modify env file';
+    protected $description = '设置env文件内容';
 
     /**
      * Create a new command instance.
